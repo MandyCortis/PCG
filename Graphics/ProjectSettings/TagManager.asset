@@ -7,6 +7,9 @@ TagManager:
   - Plane
   - Pyramid
   - Cube
+  - Track1
+  - Track2
+  - Track3
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Terrain
   - 
   - 
   - 
